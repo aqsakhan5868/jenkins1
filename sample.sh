@@ -5,3 +5,4 @@ whoami
 ls
 pwd
 echo "this is the message from second commit"
+cat /etc/os-release
