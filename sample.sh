@@ -4,3 +4,4 @@ date
 whoami
 ls
 pwd
+echo "this is the message from second commit"
